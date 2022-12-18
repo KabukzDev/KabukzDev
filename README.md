@@ -1,7 +1,7 @@
 <p align="center"><i>This is Kabukz, you can call me Vane</i></p>
-
-                                                        ☆ [ 🏳️‍🌈 • ♑ ] ☆
-     
+<br>
+<p align="center"><strong>☆ [ 🏳️‍🌈 • ♑ ] ☆</strong></p>
+<br>    
 <p align="center"><strong>₊˚૮₍﹕HTML, CSS & Javascript Student<br>₊˚૮₍﹕Inside Job, Breaking Bad & Aggretsuko Fan<br>₊˚૮₍﹕Mirror Edge & Forza Horizon 5 Player</strong></p>
 <div id="header" align="center">
   <img src="https://media.discordapp.net/attachments/1050974959171809332/1053436877019037776/Screenshot_20221216_1719362.jpg?width=407&height=400" width="200"/>
