@@ -1,6 +1,6 @@
 *This is Kabukz, you can call me Vane*
 
-     **☆ [ 🏳️‍🌈 • ♑ ] ☆**
+     ☆ [ 🏳️‍🌈 • ♑ ] ☆
      
 **₊˚૮₍﹕HTML, CSS & Javascript Student**
 
