@@ -1,4 +1,4 @@
-<p align="center"><i>I'm is Kabukz</i></p>
+<p align="center"><i>I'm Kabukz</i></p>
 <br>    
 <p align="center"><strong>₊˚૮₍﹕HTML, CSS & Javascript Student<br>₊˚૮₍﹕Inside Job, Breaking Bad & Aggretsuko Fan<br>₊˚૮₍﹕Mirror Edge & Forza Horizon 5 Player</strong></p>
 <div id="header" align="center">
