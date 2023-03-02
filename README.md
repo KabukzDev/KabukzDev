@@ -19,7 +19,7 @@
   <a href="https://steamcommunity.com/id/thisisvane">
     <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="https://discord.gg/user/stfu#9588"
+  <a href="https://discord.gg/user/stfu#9588">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
