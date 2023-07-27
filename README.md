@@ -1,6 +1,6 @@
 <p align="center"><i>I'm Kabukz</i></p>
 <br>    
-<p align="center"><strong>₊˚૮₍﹕Full-Stack Developer<br>₊˚૮₍﹕All-genre fan<br>₊˚૮₍﹕Focus on your objectives</strong></p>
+<p align="center"><strong>₊˚૮₍﹕Full-Stack Developer<br>₊˚૮₍﹕All music genre fan<br>₊˚૮₍﹕Focus on your objectives</strong></p>
 <div id="header" align="center">
   <img src="https://media.discordapp.net/attachments/1050974959171809332/1053436877019037776/Screenshot_20221216_1719362.jpg?width=407&height=400" width="200"/>
 <br>
@@ -19,7 +19,7 @@
   <a href="https://steamcommunity.com/id/thisisvane">
     <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="https://discord.gg/user/Vane#2042">
+  <a href="https://discord.gg/user/@notvane">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
