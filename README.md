@@ -1,5 +1,7 @@
 <p align="center"><i>I'm Frederick</i></p>
-<br>    
+<br>
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://i.imgur.com/Ccra8e5.gif">
+<br>
 <p align="center"><strong>- Full-Stack Developer<br>- All music genre fan<br>- Grinding to be a better person.</strong></p>
 <div id="header" align="center">
 <br>
