@@ -1,12 +1,12 @@
-<p align="center"><i>I'm Kabukz</i></p>
+<p align="center"><i>I'm Frederick</i></p>
 <br>    
-<p align="center"><strong>₊˚૮₍﹕Full-Stack Developer<br>₊˚૮₍﹕All music genre fan<br>₊˚૮₍﹕Focus on my objectives</strong></p>
+<p align="center"><strong>- Full-Stack Developer<br>- All music genre fan<br>- Grinding to be a better person.</strong></p>
 <div id="header" align="center">
 <br>
 </div>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.twitter.com/notkabukz">
+  <a href="https://www.twitter.com/unkanely">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.reddit.com/user/Kabukz/">
@@ -18,7 +18,7 @@
   <a href="https://steamcommunity.com/id/thisisvane">
     <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="https://discord.gg/user/@notvane">
+  <a href="https://discordapp.com/users/824624341408022568">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
