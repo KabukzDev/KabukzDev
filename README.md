@@ -1,11 +1,9 @@
-<p align="center"><i>I'm Frederick</i></p>
-<br>
-<img style="display:block; margin-left:auto; margin-right:auto;" src="https://i.imgur.com/Ccra8e5.gif">
-<br>
-<p align="center"><strong>- Full-Stack Developer<br>- All music genre fan<br>- Grinding to be a better person.</strong></p>
-<div id="header" align="center">
-<br>
-</div>
+<div style="display:flex; align-items:center; justify-content:center;">
+  <p align="center"><i>I'm Frederick</i></p>
+  <br>
+  <img src="https://i.imgur.com/Ccra8e5.gif">
+  <br>
+  <p align="center"><strong>- Full-Stack Developer<br>- All music genre fan<br>- Grinding to be a better person.</strong></p>
 </div>
 <div id="badges" align="center">
   <a href="https://www.twitter.com/unkanely">
