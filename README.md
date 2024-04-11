@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/dev.to-black?logo=devdotto&logoColor=white" alt="dev.to Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/23512854/unkane">
-    <img src="https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
+    <img src="https://img.shields.io/badge/Stack Overflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
   </a>
   <a href="https://glitch.com/@unkane">
     <img src="https://img.shields.io/badge/Glitch-pink?logo=glitch&logoColor=white" alt="Glitch Badge"/>
