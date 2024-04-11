@@ -11,20 +11,20 @@
   <a href="https://www.twitter.com/unkanely">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/Kabukz/">
-    <img src="https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  <a href="https://www.dev.to/unkane">
+    <img src="https://img.shields.io/badge/dev.to-black?logo=devdotto&logoColor=white" alt="dev.to Badge"/>
   </a>
-  <a href="https://www.tiktok.com/@notkabukz">
-    <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+  <a href="https://stackoverflow.com/users/23512854/unkane">
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
   </a>
   <a href="https://glitch.com/@unkane">
     <img src="https://img.shields.io/badge/Glitch-pink?logo=glitch&logoColor=white" alt="Glitch Badge"/>
   </a>
+  <a href="https://codepen.io/unkane">
+    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
   <a href="https://discordapp.com/users/824624341408022568">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/23512854/unkane">
-    <img src="https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
   </a>
 </div>
 
