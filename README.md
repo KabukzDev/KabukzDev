@@ -1,10 +1,12 @@
-<div style="display:flex; align-items:center; justify-content:center;">
-  <p align="center"><i>I'm Frederick</i></p>
-  <br>
-  <img src="https://i.imgur.com/Ccra8e5.gif">
-  <br>
-  <p align="center"><strong>- Full-Stack Developer<br>- All music genre fan<br>- Grinding to be a better person.</strong></p>
-</div>
+<h1 align="center">Hi 👋, I'm Frederick</h1>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
+<ul align="left">
+<li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
+<li>🌱 I’m currently learning <strong>Front-End Development</strong></li>
+<li>🤝 I’m looking for help with <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
+<li>💬 Ask me about <strong>HTML</strong></li>
+</ul>
+<h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">
   <a href="https://www.twitter.com/unkanely">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -15,13 +17,19 @@
   <a href="https://www.tiktok.com/@notkabukz">
     <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
-  <a href="https://steamcommunity.com/id/thisisvane">
-    <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white" alt="Steam Badge"/>
+  <a href="https://glitch.com/@unkane">
+    <img src="https://img.shields.io/badge/Glitch-pink?logo=glitch&logoColor=white" alt="Glitch Badge"/>
   </a>
   <a href="https://discordapp.com/users/824624341408022568">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/23512854/unkane">
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
+  </a>
 </div>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <!---
 KabukzDev/KabukzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
