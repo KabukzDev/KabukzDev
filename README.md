@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Frederick</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">Freelance Front-End Developer from Colombia</h3>
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
-<li>🌱 I’m currently learning <strong>Front-End Development</strong></li>
+<li>🌱 I’m currently learning <strong>social skills</strong></li>
 <li>🤝 I’m looking for help with <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
 <li>💬 Ask me about <strong>HTML</strong></li>
 </ul>
