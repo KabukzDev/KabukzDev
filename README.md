@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">
   <a href="https://www.twitter.com/unkanely">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://www.dev.to/unkane">
     <img src="https://img.shields.io/badge/dev.to-black?logo=devdotto&logoColor=white" alt="dev.to Badge"/>
