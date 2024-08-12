@@ -11,6 +11,9 @@
   <a href="https://www.twitter.com/unkanely">
     <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="X Badge"/>
   </a>
+  <a href="https://discordapp.com/users/824624341408022568">
+    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
   <a href="https://www.dev.to/unkane">
     <img src="https://img.shields.io/badge/dev.to-black?logo=devdotto&logoColor=white" alt="dev.to Badge"/>
   </a>
@@ -22,9 +25,6 @@
   </a>
   <a href="https://codepen.io/unkane">
     <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
-  <a href="https://discordapp.com/users/824624341408022568">
-    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
