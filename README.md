@@ -3,8 +3,8 @@
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
 <li>🌱 I’m currently learning <strong>social skills</strong></li>
-<li>🤝 I’m looking for help with <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
-<li>💬 Ask me about <strong>HTML</strong></li>
+<li>🤝 I’m looking for help with Python</li>
+<li>💬 Ask me about <strong>anything</strong></li>
 </ul>
 <h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">
