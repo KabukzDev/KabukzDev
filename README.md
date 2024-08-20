@@ -3,7 +3,7 @@
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
 <li>🌱 I’m currently learning <strong>PCB design</strong></li>
-<li>🤝 I’m looking for help with Python</li>
+<li>🤝 I’m looking for help with <strong>C++</strong></li>
 <li>💬 Ask me about <strong>anything</strong></li>
 </ul>
 <h3 align="center">Connect with me:</h3>
