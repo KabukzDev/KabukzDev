@@ -2,7 +2,7 @@
 <h3 align="center">Freelance Front-End Developer from Colombia</h3>
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
-<li>🌱 I’m currently learning <strong>C++</strong></li>
+<li>🌱 I’m currently learning <strong>PCB design</strong></li>
 <li>🤝 I’m looking for help with Python</li>
 <li>💬 Ask me about <strong>anything</strong></li>
 </ul>
