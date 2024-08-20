@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frederick</h1>
+<h1 align="center">Hi, I'm Frederick 👋</h1>
 <h3 align="center">Freelance Front-End Developer from Colombia</h3>
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
