@@ -19,9 +19,6 @@
   <a href="https://stackoverflow.com/users/23512854/unkane">
     <img src="https://img.shields.io/badge/Stack Overflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
   </a>
-  <a href="https://codepen.io/unkane">
-    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
 </div>
 
 <!-- <h3 align="center">Languages and Tools:</h3>
