@@ -1,7 +1,7 @@
 <h1 align="left">Frederick</h1>
 <h3 align="left">aspiring electronic engineer</h3>
 <ul align="left">
-<li>working on <a href="https://github.com/KabukzDev/fleurir">fleurir</a></li>
+<li>working on <a href="https://github.com/KabukzDev/fleurir">Fleurir</a></li>
 <li>currently learning <strong>React</strong> (hard)</li>
 <li>ask me about <strong>whatever</strong></li>
 </ul>
