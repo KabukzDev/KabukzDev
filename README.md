@@ -1,12 +1,12 @@
-<h1 align="center">Frederick</h1>
-<h3 align="center">aspiring electronic engineer</h3>
+<h1 align="left">Frederick</h1>
+<h3 align="left">aspiring electronic engineer</h3>
 <ul align="left">
 <li>working on <a href="https://github.com/KabukzDev/fleurir">fleurir</a></li>
 <li>currently learning <strong>React</strong> (hard)</li>
 <li>ask me about <strong>whatever</strong></li>
 </ul>
-<h3 align="center">Connect with me :3</h3>
-<div id="badges" align="center">
+<h3 align="left">talk with me :3</h3>
+<div id="badges" align="left">
   <a href="https://www.twitter.com/unkanely">
     <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="X Badge"/>
   </a>
