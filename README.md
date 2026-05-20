@@ -1,12 +1,11 @@
-<h1 align="center">Hi, I'm Frederick 👋</h1>
-<h3 align="center">Freelance Front-End Developer from Colombia</h3>
+<h1 align="center">Frederick</h1>
+<h3 align="center">aspiring electronic engineer</h3>
 <ul align="left">
-<li>🔭 I’m currently working on <a href="https://ruffbook.glitch.me/">Ruffbook</a></li>
-<li>🌱 I’m currently learning <strong>PCB design</strong></li>
-<li>🤝 I’m looking for help with <strong>C++</strong></li>
-<li>💬 Ask me about <strong>anything</strong></li>
+<li>working on <a href="https://github.com/KabukzDev/fleurir">fleurir</a></li>
+<li>currently learning <strong>React</strong> (hard)</li>
+<li>ask me about <strong>whatever</strong></li>
 </ul>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me :3</h3>
 <div id="badges" align="center">
   <a href="https://www.twitter.com/unkanely">
     <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" alt="X Badge"/>
@@ -20,15 +19,12 @@
   <a href="https://stackoverflow.com/users/23512854/unkane">
     <img src="https://img.shields.io/badge/Stack Overflow-orange?logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge">
   </a>
-  <a href="https://glitch.com/@unkane">
-    <img src="https://img.shields.io/badge/Glitch-pink?logo=glitch&logoColor=white" alt="Glitch Badge"/>
-  </a>
   <a href="https://codepen.io/unkane">
     <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white" alt="CodePen Badge"/>
   </a>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -48,7 +44,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 <!---
 KabukzDev/KabukzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
